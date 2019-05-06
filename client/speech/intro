@@ -1,0 +1,2 @@
+the folder stores the fetched speeches from watson for reusing 
+the .wav files can be fetched at the first run of run_tjbot.sh
